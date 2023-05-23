@@ -4,7 +4,94 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432c6fa7-8e3a-4680-a7e6-d1c059d2aa44" name="更改" comment="" />
+    <list default="true" id="432c6fa7-8e3a-4680-a7e6-d1c059d2aa44" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Front-End-Coding-Guidelines.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/404.html-5703bc30.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/404.html-81a48005.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/404.html-81a48005.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app-0dcd038a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-178fa985.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-2d3955f0.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.html-2d3955f0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-3017a4dd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-42c76b05.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-4a7ebf1d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-5b6d9e3b.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.html-5b6d9e3b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-63a94069.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.html-63a94069.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-6840c66c.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.html-6840c66c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-7980d6b4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-7aad5ab2.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.html-7aad5ab2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-8fec971c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-ae1400e4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-c1d5cfce.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.html-c1d5cfce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-d3e28365.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-ec9611c0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-f04d669e.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.html-f04d669e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photoswipe.esm-2450701e.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photoswipe.esm-2450701e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugin-vue_export-helper-c27b6911.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/plugin-vue_export-helper-c27b6911.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/search-0782d0d1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/search-0782d0d1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style-5c408661.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/404.html-1725f1a0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/404.html-81a48005.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/app-f7051572.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-178fa985.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-1ea394f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-2d3955f0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-3856a1c7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-4b640680.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-52f9ebb4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-5af53167.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-5b6d9e3b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-63a94069.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-6840c66c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-7aad5ab2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-90dc8098.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-c04bd575.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-c1d5cfce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-d59405be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/index.html-f04d669e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/photoswipe.esm-2450701e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/plugin-vue_export-helper-c27b6911.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/search-0782d0d1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/style-5c408661.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/enter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/git/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/google-developers.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/projectStruct/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/uniapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/vue/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/google-developers.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/enter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/git/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/projectStruct/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uniapp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/vue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/enter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/git/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectStruct/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectStruct/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uniapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uniapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
