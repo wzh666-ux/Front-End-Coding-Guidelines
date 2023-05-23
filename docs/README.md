@@ -1,9 +1,8 @@
 ---
 home: true
-icon: logos:google-developers
 title: 开发规范手册
 heroText: 开发规范手册
-heroImage: /logo.png
+heroImage: logo.png
 tagline: 前端开发
 actions:
   - text: 开始学习 →
@@ -24,5 +23,46 @@ features:
     details: 一键复制代码块中的代码
 ---
 
+##
+
+::: playground#vue vue演示
+
+@file App.vue
+
+```vue
+<script setup>
+import { ref } from "vue";
+
+import Comp from "./Comp.vue";
+
+const msg = ref("Hello World!");
+</script>
+
+<template>
+  <h1>{{ msg }}</h1>
+  <input v-model="msg" />
+  <Comp />
+</template>
+```
+
+@file Comp.vue
+
+```vue
+<template>
+  <div>Comp</div>
+</template>
+```
+
+@import
+
+```json
+{
+  "imports": {
+    "vue": "https://sfc.vuejs.org/vue.runtime.esm-browser.js"
+  }
+}
+```
+
+:::
 
 
